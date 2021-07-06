@@ -2,11 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - type: hero_section
-    section_id: hero
-    title: This!!!
-    content: |
-      We are a brand and design practice. We work closely with you...
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
